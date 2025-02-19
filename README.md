@@ -13,7 +13,7 @@ Previously, as a Lecturer for Mathematics, I championed innovative teaching meth
 ``Data Analysis``
 ``ETL``
 ``Business Intelligence``
-``Data Visualization``
+``Data Visualization``<br/>
 ``Statistical Analysis``
 ``Dashboard Creation``
 ``Data Mining``
@@ -26,7 +26,7 @@ Previously, as a Lecturer for Mathematics, I championed innovative teaching meth
 ``Azure SQL``
 ``Oracle``
 ``Microsoft SQL Server``
-``Oracle SQL Developer``
+``Oracle SQL Developer``<br/>
 ``SQL Server Management 
 Studio (SSMS)``
 ``Azure Data Studio``
