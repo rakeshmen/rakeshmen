@@ -36,6 +36,10 @@ Studio (SSMS)``
 ``JIRA``
 ``Log2Space``
 
+## Completed Courses
+[Get started with Microsoft data analytics](https://learn.microsoft.com/api/achievements/share/en-us/RakeshMen/FV7TQ9DX?sharingId=F5B069C0E304C6C4) <br/>
+[Microsoft Azure Data Fundamentals: Explore core data concepts](https://learn.microsoft.com/api/achievements/share/en-us/RakeshMen/87CKQYPW?sharingId=F5B069C0E304C6C4)
+
 <!--
 **rakeshmen/rakeshmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
