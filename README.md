@@ -1,6 +1,4 @@
 # Hi there, Rakesh is here... 👋
-![Youtube Banner](https://github.com/user-attachments/assets/6889ddbb-60b1-4c6a-a2f9-cdc5998f9112)
-
 As a Technical Analyst, my primary mission is to translate complex subscriber data into actionable insights, significantly impacting our service offerings. Our team's dedication to data-driven decision-making has enabled us to tailor our services more effectively to our subscribers' needs.
 
 Previously, as a Lecturer for Mathematics, I championed innovative teaching methods, which led to a 20% improvement in student test scores. The strategies we developed, such as "student as a teacher" and "desi formula remembering techniques," increased student engagement by 15% and ignited a passion for mathematics among hundreds of students.
@@ -8,6 +6,7 @@ Previously, as a Lecturer for Mathematics, I championed innovative teaching meth
 - 🌱 And learning in-depth Python for Data Analysis.
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/rakeshmen/)
 
+![Youtube Banner](https://github.com/user-attachments/assets/6889ddbb-60b1-4c6a-a2f9-cdc5998f9112)
 ## Skillset
 ### Techniques and Methods
 ``Data Analysis``
