@@ -1,8 +1,8 @@
 # Hi there, Rakesh is here... 👋
 My primary mission is to translate complex data into actionable insights.
 
-- 🔭 I’m currently working on SQL, Power BI.
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/rakeshmen/)
+- I’m currently working on SQL, Power BI.
+- Let's connect: [LinkedIn](https://www.linkedin.com/in/rakeshmen/)
 
 ![Youtube Banner](https://github.com/user-attachments/assets/6889ddbb-60b1-4c6a-a2f9-cdc5998f9112)
 # Skillset
