@@ -41,7 +41,7 @@ Studio (SSMS)``
 ##### [LinkedIn](https://www.linkedin.com/in/rakeshmen/) | [Twitter](https://www.x.com/rakeshmen/) | [Instagram](https://www.instagram.com/rakeshmen.in/) | [Facebook](https://www.facebook.com/rakeshmen/) | [Youtube](https://www.youtube.com/@rakeshmen/)
 
 ## Contact Details
-##### rakeshmen@outlook.com | +91 9960885866
+##### hello@rakeshmen.com | +91 9960885866
 <!--
 **rakeshmen/rakeshmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
