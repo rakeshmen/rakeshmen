@@ -1,5 +1,6 @@
-![Youtube Banner](https://github.com/user-attachments/assets/6889ddbb-60b1-4c6a-a2f9-cdc5998f9112)
-
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/73b21534-3c62-4bde-8eea-7ced3ccd6253" />
+<br>
+<br>
 Hi there, Rakesh is here...<br>
 
 I am a Business Intelligence Developer passionate about turning data into actionable insights that drive business growth. Well specialize in Power BI, advanced DAX, Power Query, and ETL processes, creating high-performance dashboards and reports for smarter decision-making. Also love to design scalable data workflows, optimize data models, and leverage SQL, Azure Data Factory, and emerging technologies like Gen AI to deliver impactful analytics solutions. <br> 
